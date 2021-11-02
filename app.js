@@ -1,1 +1,2 @@
-console.log('Hello world and world')
+Mint 
+console.error("Invalid")
